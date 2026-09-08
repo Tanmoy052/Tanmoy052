@@ -100,10 +100,6 @@ I regularly practice Data Structures & Algorithms and problem solving.
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmoy052&show_icons=true&hide_border=true" alt="Tanmoy's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmoy052&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -119,27 +115,7 @@ I regularly practice Data Structures & Algorithms and problem solving.
 
 ---
 
-## Current Focus
-
-```text
-Full-Stack Web Development
-        ↓
-Backend Development
-        ↓
-Data Structures & Algorithms
-        ↓
-System Design & Scalable Applications
-        ↓
-Software Engineering Opportunities
-```
-
 ### Open To
 
 **Software Development Internships**
 **Entry-Level Software Engineering Opportunities**
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile.</b>
-</p>
